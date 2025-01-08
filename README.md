@@ -8,10 +8,7 @@ Welcome to my GitHub profile! I'm a passionate graphic designer who is currently
 - 🌱 I’m currently learning web development
 - 💻 Working on enhancing my skills in HTML, CSS, and JavaScript
 - 👯 I’m looking to collaborate on design and web projects
-- 💬 Ask me about graphic design, UI/UX, and web development
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: I love creating digital art and animations
+- 😄 Pronouns: He/Him
 
 ## My Skills
 
