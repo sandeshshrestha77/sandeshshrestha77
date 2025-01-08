@@ -24,15 +24,6 @@ Welcome to my GitHub profile! I'm a passionate graphic designer who is currently
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
-## My GitHub Stats
-
-![Forsakenx777's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshshrestha77&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshshrestha77&layout=compact&theme=radical)
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeshshrestha7)
