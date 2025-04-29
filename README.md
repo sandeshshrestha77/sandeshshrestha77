@@ -8,9 +8,7 @@ Welcome to my little corner of the internet — my GitHub profile! I'm a **visua
 
 - 🎨 **Graphic Designer** by profession — I turn ideas into eye-catching visuals.  
 - 🌱 Currently **leveling up** in the full-stack web development arena.  
-- 💻 Learning and building with **HTML**, **CSS**, **JavaScript**, **React**, and more.  
-- 🤝 Open to **collaborations** on creative design and web-based projects.  
-- 🧠 Always exploring new tech — from motion graphics to UI/UX.  
+- 🤝 Open to **collaborations** on creative design and web-based projects. 
 - 😄 Pronouns: **He/Him**
 
 ---
