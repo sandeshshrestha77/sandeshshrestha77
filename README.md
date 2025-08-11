@@ -1,13 +1,6 @@
 # 👋 Hey, I’m Sandesh Shrestha  
 *Graphic Designer 🎨 | Motion Artist 🎞 | Front-End Developer 💻*
 
----
-
-> _“Design is intelligence made visible.”_  
-> <sub style="color:#2563EB;">Crafting seamless experiences through pixels and code.</sub>
-
----
-
 ## 🛠 My Toolbox
 
 ### 🎨 Adobe Creative Suite  
