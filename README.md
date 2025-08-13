@@ -18,9 +18,7 @@
 
 ### 🚀 Dev / Deploy
 
-`Git` · `Vercel`
-
-`✂️ ✨ 🧷`
+`Git` · `Vercel` · `Render`
 
 ---
 
