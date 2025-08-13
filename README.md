@@ -4,7 +4,7 @@
 
 `✷ ✷ ✷`
 
-## 🧰 Modern Stack — Cutout Edition
+## 🧰 Modern Stack
 
 `Lighter, faster, cleaner — tools I ship with.`
 
