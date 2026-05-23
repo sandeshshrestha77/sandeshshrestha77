@@ -1,30 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080807,100:080807&height=20&section=header" width="100%"/>
-
-<br/>
-
-<!-- MONOGRAM / WORDMARK -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080807,100:080807&height=180&text=S%20%C2%B7%20S&fontSize=72&fontColor=C9A84C&fontAlignY=52&desc=SANDESH%20SHRESTHA&descSize=13&descAlignY=75&descColor=6b6459&fontFamily=Georgia" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=400&size=17&pause=3000&color=C9A84C&center=true&vCenter=true&width=700&lines=Graphic+Designer+%E2%80%94+Brand+Identity+%E2%80%94+Visual+Systems;Crafting+identities+that+endure+beyond+trend;Minimal+%C2%B7+Strategic+%C2%B7+Intentional" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/―――――――――――――――――――――――――――-C9A84C?style=flat-square&labelColor=080807&color=080807"/>
-
-</div>
-
-<br/><br/>
-
----
-
-<br/>
-
-<div align="center"><sub>◈ &nbsp;&nbsp; I · ABOUT &nbsp;&nbsp; ◈</sub></div>
-
 <br/>
 
 > *"I design visual systems that are quiet, intentional, and built to last —*
@@ -192,12 +165,6 @@ Currently exploring motion systems and interface design.
 <div align="center"><sub>◈ &nbsp;&nbsp; VII · PRESENCE &nbsp;&nbsp; ◈</sub></div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sandeshshrestha77&theme=dark&hide_border=true&background=080807&stroke=1a1814&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=6b6459&dates=3d3830" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshshrestha77&layout=compact&theme=dark&hide_border=true&bg_color=080807&title_color=C9A84C&text_color=6b6459&border_radius=0" width="40%"/>
 
 <br/><br/>
 
