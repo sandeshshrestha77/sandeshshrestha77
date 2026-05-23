@@ -162,15 +162,7 @@ Currently exploring motion systems and interface design.
 
 <br/>
 
-<div align="center"><sub>◈ &nbsp;&nbsp; VII · PRESENCE &nbsp;&nbsp; ◈</sub></div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center"><sub>◈ &nbsp;&nbsp; VIII · CONTACT &nbsp;&nbsp; ◈</sub></div>
+<div align="center"><sub>◈ &nbsp;&nbsp; VII · CONTACT &nbsp;&nbsp; ◈</sub></div>
 
 <br/>
 
