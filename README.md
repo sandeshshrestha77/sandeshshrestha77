@@ -41,9 +41,7 @@ Currently exploring motion graphics, UI/UX systems, and interactive design exper
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&amp;logo=figma&amp;logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&amp;logo=adobepremierepro&amp;logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white)
 
 </div>
 
@@ -100,14 +98,6 @@ High-engagement social media creatives for modern brands across platforms.
 <img src="https://img.shields.io/badge/Full--Time-7c3aed?style=flat-square" />
 
 Creating brand visuals, digital campaigns, and social media content for clients.
-
----
-
-### 🏢 Freelance Graphic Designer — Sharda Production Pvt. Ltd.
-
-<img src="https://img.shields.io/badge/Freelance-302b63?style=flat-square" />
-
-Designing promotional and event-based creative assets.
 
 ---
 
