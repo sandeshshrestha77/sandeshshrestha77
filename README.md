@@ -4,11 +4,6 @@
 <!-- CUSTOM BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SANDESH&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Graphic+Designer+%7C+Brand+Strategist+%7C+Visual+Storyteller&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-<!-- TYPING EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=✦+Creative+Graphic+Designer;✦+Brand+Identity+Specialist;✦+Social+Media+Design+Expert;✦+AI-Powered+Visual+Workflows;✦+Clean.+Impactful.+Professional." alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- VISITOR COUNTER -->
@@ -40,7 +35,6 @@
 - 📱 &nbsp;Designing **social media content** that stops the scroll
 - 🤖 &nbsp;Leveraging **AI tools** to supercharge creative workflows
 - 🌱 &nbsp;Currently exploring **motion design** & **UI/UX principles**
-- ✉️ &nbsp;Reach me at **[your.email@example.com](mailto:your.email@example.com)**
 
 ---
 
@@ -76,16 +70,8 @@
     <td>
       <h3>🏢 Graphic Designer</h3>
       <strong>Infinity Digital Agency (IDA)</strong><br/>
-      <img src="https://img.shields.io/badge/Full--Time-7c3aed?style=flat-square" alt="Full-Time"/>
       <br/><br/>
       Designing end-to-end brand creatives, digital campaigns, and social media content for agency clients. Collaborating with marketing and strategy teams to deliver pixel-perfect, on-brand visual assets across all platforms.
-    </td>
-    <td>
-      <h3>🎨 Freelance Designer</h3>
-      <strong>Sharda Production Pvt. Ltd.</strong><br/>
-      <img src="https://img.shields.io/badge/Freelance-302b63?style=flat-square" alt="Freelance"/>
-      <br/><br/>
-      Creating bespoke design solutions including promotional materials, event branding, and visual identity systems. Delivering high-quality creative work within tight timelines for production-focused projects.
     </td>
   </tr>
 </table>
