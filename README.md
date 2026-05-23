@@ -3,11 +3,6 @@
 <!-- CUSTOM BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SANDESH&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Graphic+Designer+%7C+Brand+Strategist+%7C+Visual+Storyteller&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-<!-- TYPING EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=✦+Creative+Graphic+Designer;✦+Brand+Identity+Specialist;✦+Social+Media+Design+Expert;✦+AI-Powered+Visual+Workflows;✦+Clean.+Impactful.+Professional." alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- VISITOR COUNTER -->
