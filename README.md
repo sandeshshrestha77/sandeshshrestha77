@@ -196,23 +196,3 @@ Currently exploring motion systems and interface design.
 </a>
 
 </div>
-
-<br/><br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<sub>S &nbsp;·&nbsp; S</sub>
-
-<br/><br/>
-
-<sub>DESIGNED WITH INTENTION &nbsp;·&nbsp; © SANDESH SHRESTHA</sub>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080807,100:080807&height=4&section=footer" width="100%"/>
