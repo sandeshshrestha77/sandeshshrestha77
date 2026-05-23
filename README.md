@@ -162,11 +162,3 @@ Designing promotional and event-based creative assets.
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=110&amp;section=footer&amp;text=Crafting+visual+experiences+with+creativity+%26+strategy&amp;fontSize=18&amp;fontColor=a78bfa&amp;fontAlignY=70" width="100%" />
-
-</div>
