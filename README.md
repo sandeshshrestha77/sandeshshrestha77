@@ -9,15 +9,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=400&size=17&pause=3000&color=C9A84C&center=true&vCenter=true&width=700&lines=Graphic+Designer+%E2%80%94+Brand+Identity+%E2%80%94+Visual+Systems;Crafting+identities+that+endure+beyond+trend;Kathmandu%2C+Nepal" />
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=400&size=17&pause=3000&color=C9A84C&center=true&vCenter=true&width=700&lines=Graphic+Designer+%E2%80%94+Brand+Identity+%E2%80%94+Visual+Systems;Crafting+identities+that+endure+beyond+trend;Minimal+%C2%B7+Strategic+%C2%B7+Intentional" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/―――――――――――――――――――――――――――-C9A84C?style=flat-square&labelColor=080807&color=080807"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sandeshshrestha77&label=PROFILE+VIEWS&color=080807&style=flat-square&labelColor=1a1814"/>
 
 </div>
 
@@ -90,68 +86,59 @@ Currently exploring motion systems and interface design.
 
 <br/>
 
+<div align="center">
+
+<a href="https://www.behance.net/sandeshshrestha77">
+  <img src="https://img.shields.io/badge/VIEW%20FULL%20PORTFOLIO%20ON%20BEHANCE%20%E2%86%92-1a1814?style=for-the-badge&logo=behance&logoColor=C9A84C&labelColor=1a1814"/>
+</a>
+
+<br/><br/>
+
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td align="center" width="33%">
       <br/>
-      <div align="right"><sub>№ 01</sub></div>
-      <img src="https://via.placeholder.com/700x440/0d0c0a/1a1814?text=BRAND+IDENTITY+SYSTEM" width="100%"/>
+      <sub>◦ &nbsp; BRANDING &nbsp; ◦</sub>
       <br/><br/>
-      <strong>Identity System</strong> &nbsp;<sub>— BRANDING</sub>
+      <sub>Brand identity systems,<br/>logo design & visual language</sub>
       <br/><br/>
-      <sub>Minimal identity system built around clarity, hierarchy, and timeless typographic structure. Designed for longevity.</sub>
-      <br/><br/>
-      <a href="https://www.sandeshshrestha77.com.np">
-        <img src="https://img.shields.io/badge/VIEW_WORK_%E2%86%92-080807?style=flat-square&logoColor=C9A84C&labelColor=1a1814&color=1a1814"/>
+      <a href="https://www.behance.net/sandeshshrestha77">
+        <img src="https://img.shields.io/badge/VIEW_%E2%86%92-080807?style=flat-square&labelColor=1a1814&color=1a1814&logoColor=C9A84C"/>
       </a>
       <br/><br/>
     </td>
-    <td width="50%" valign="top">
+    <td align="center" width="33%">
       <br/>
-      <div align="right"><sub>№ 02</sub></div>
-      <img src="https://via.placeholder.com/700x440/0d0c0a/1a1814?text=DIGITAL+CAMPAIGN" width="100%"/>
+      <sub>◦ &nbsp; DIGITAL &nbsp; ◦</sub>
       <br/><br/>
-      <strong>Digital Campaign</strong> &nbsp;<sub>— DIRECTION</sub>
+      <sub>Social media systems,<br/>campaigns & digital direction</sub>
       <br/><br/>
-      <sub>Structured campaign design focused on visual consistency and strategic messaging across digital platforms.</sub>
-      <br/><br/>
-      <a href="https://www.sandeshshrestha77.com.np">
-        <img src="https://img.shields.io/badge/VIEW_WORK_%E2%86%92-080807?style=flat-square&logoColor=C9A84C&labelColor=1a1814&color=1a1814"/>
+      <a href="https://www.behance.net/sandeshshrestha77">
+        <img src="https://img.shields.io/badge/VIEW_%E2%86%92-080807?style=flat-square&labelColor=1a1814&color=1a1814&logoColor=C9A84C"/>
       </a>
       <br/><br/>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td align="center" width="33%">
       <br/>
-      <div align="right"><sub>№ 03</sub></div>
-      <img src="https://via.placeholder.com/700x440/0d0c0a/1a1814?text=EDITORIAL+LAYOUT" width="100%"/>
+      <sub>◦ &nbsp; PRINT &nbsp; ◦</sub>
       <br/><br/>
-      <strong>Editorial Layout</strong> &nbsp;<sub>— PRINT</sub>
+      <sub>Editorial layouts,<br/>print collateral & art direction</sub>
       <br/><br/>
-      <sub>Print-ready editorial design built with precision — grid-based layouts with considered typographic hierarchy.</sub>
-      <br/><br/>
-      <a href="https://www.sandeshshrestha77.com.np">
-        <img src="https://img.shields.io/badge/VIEW_WORK_%E2%86%92-080807?style=flat-square&logoColor=C9A84C&labelColor=1a1814&color=1a1814"/>
-      </a>
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top">
-      <br/>
-      <div align="right"><sub>№ 04</sub></div>
-      <img src="https://via.placeholder.com/700x440/0d0c0a/1a1814?text=SOCIAL+MEDIA+SYSTEM" width="100%"/>
-      <br/><br/>
-      <strong>Social Media System</strong> &nbsp;<sub>— DIGITAL</sub>
-      <br/><br/>
-      <sub>Cohesive content systems for social — posts, stories, reels — built to scale without losing visual coherence.</sub>
-      <br/><br/>
-      <a href="https://www.sandeshshrestha77.com.np">
-        <img src="https://img.shields.io/badge/VIEW_WORK_%E2%86%92-080807?style=flat-square&logoColor=C9A84C&labelColor=1a1814&color=1a1814"/>
+      <a href="https://www.behance.net/sandeshshrestha77">
+        <img src="https://img.shields.io/badge/VIEW_%E2%86%92-080807?style=flat-square&labelColor=1a1814&color=1a1814&logoColor=C9A84C"/>
       </a>
       <br/><br/>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<a href="https://www.behance.net/sandeshshrestha77">
+  <img src="https://img.shields.io/badge/behance.net%2Fsandeshshrestha77-1a1814?style=flat-square&logo=behance&logoColor=6b6459"/>
+</a>
+
+</div>
 
 <br/>
 
@@ -167,19 +154,10 @@ Currently exploring motion systems and interface design.
   ┌──────────────────────────────────────────────────────────────────────┐
   │  INFINITY DIGITAL AGENCY  (IDA)               Graphic Designer       │
   │  ─────────────────────────────────────────────────────────────────   │
-  │  Full-time · Kathmandu, Nepal                                        │
+  │  Full-time                                                           │
   │                                                                      │
   │  End-to-end brand systems for multi-industry clients. Identity,      │
   │  campaign direction, social content, and visual strategy.            │
-  └──────────────────────────────────────────────────────────────────────┘
-
-  ┌──────────────────────────────────────────────────────────────────────┐
-  │  SHARDA PRODUCTION PVT. LTD.                  Freelance Designer     │
-  │  ─────────────────────────────────────────────────────────────────   │
-  │  Freelance · Kathmandu, Nepal                                        │
-  │                                                                      │
-  │  Bespoke visual identities, event branding, print collateral,        │
-  │  and promotional design systems for production projects.             │
   └──────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -272,7 +250,7 @@ Currently exploring motion systems and interface design.
 
 <br/><br/>
 
-<sub>DESIGNED WITH INTENTION &nbsp;·&nbsp; KATHMANDU, NEPAL &nbsp;·&nbsp; © SANDESH SHRESTHA</sub>
+<sub>DESIGNED WITH INTENTION &nbsp;·&nbsp; © SANDESH SHRESTHA</sub>
 
 </div>
 
