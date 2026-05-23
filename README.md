@@ -166,14 +166,6 @@ Currently exploring motion systems and interface design.
 
 <br/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeshshrestha77&bg_color=080807&color=3d3830&line=1a1814&point=C9A84C&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br/><br/>
-
 ---
 
 <br/>
