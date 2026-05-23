@@ -57,8 +57,7 @@ Motion & Interface  ████████░░░░░░░░░░░░
 ![Illustrator](https://img.shields.io/badge/Illustrator-0b0b0d?style=flat-square&logo=adobe-illustrator&logoColor=FF9A00)&nbsp;
 ![InDesign](https://img.shields.io/badge/InDesign-0b0b0d?style=flat-square&logo=adobe-indesign&logoColor=FF3366)&nbsp;
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-0b0b0d?style=flat-square&logo=adobe-premiere-pro&logoColor=9999FF)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-0b0b0d?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-0b0b0d?style=flat-square&logo=canva&logoColor=00C4CC)
+![Figma](https://img.shields.io/badge/Figma-0b0b0d?style=flat-square&logo=figma&logoColor=F24E1E)
 
 </div>
 
@@ -95,30 +94,6 @@ Motion & Interface  ████████░░░░░░░░░░░░
       <a href="https://www.sandeshshrestha77.com.np"><img src="https://img.shields.io/badge/View_Work-0b0b0d?style=flat-square&logoColor=white"/></a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03 — EDITORIAL</sub>
-      <br/><br/>
-      <img src="https://via.placeholder.com/700x420/0b0b0d/333333?text=Editorial+Design" width="100%"/>
-      <br/><br/>
-      <strong>Editorial Layout</strong>
-      <br/>
-      <sub>Print-ready editorial work built with precision in Adobe InDesign.</sub>
-      <br/><br/>
-      <a href="https://www.sandeshshrestha77.com.np"><img src="https://img.shields.io/badge/View_Work-0b0b0d?style=flat-square&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 — DIGITAL</sub>
-      <br/><br/>
-      <img src="https://via.placeholder.com/700x420/0b0b0d/333333?text=Social+Media+Design" width="100%"/>
-      <br/><br/>
-      <strong>Social Media System</strong>
-      <br/>
-      <sub>Cohesive content systems for social — posts, stories, reels, designed to scale.</sub>
-      <br/><br/>
-      <a href="https://www.sandeshshrestha77.com.np"><img src="https://img.shields.io/badge/View_Work-0b0b0d?style=flat-square&logoColor=white"/></a>
-    </td>
-  </tr>
 </table>
 
 <br/>
@@ -134,11 +109,6 @@ Infinity Digital Agency (IDA)                          Graphic Designer — Full
 ────────────────────────────────────────────────────────────────────────────────────
 Designing brand systems and digital assets for multi-industry campaigns.
 End-to-end creative: identity, social content, campaign direction, visual strategy.
-
-Sharda Production Pvt. Ltd.                            Graphic Designer — Freelance
-────────────────────────────────────────────────────────────────────────────────────
-Creating visual identities and promotional design systems for production projects.
-Bespoke solutions: event branding, print collateral, digital assets.
 ```
 
 <br/>
